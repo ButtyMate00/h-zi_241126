@@ -1,0 +1,10 @@
+C:\Users\mate2\Downloads\241126\Palindrom_ellenorzo\Palindrom_ellenorzo\obj\Debug\Palindrom_ellenorzo.csproj.AssemblyReference.cache
+C:\Users\mate2\Downloads\241126\Palindrom_ellenorzo\Palindrom_ellenorzo\obj\Debug\Palindrom_ellenorzo.Form1.resources
+C:\Users\mate2\Downloads\241126\Palindrom_ellenorzo\Palindrom_ellenorzo\obj\Debug\Palindrom_ellenorzo.Properties.Resources.resources
+C:\Users\mate2\Downloads\241126\Palindrom_ellenorzo\Palindrom_ellenorzo\obj\Debug\Palindrom_ellenorzo.csproj.GenerateResource.cache
+C:\Users\mate2\Downloads\241126\Palindrom_ellenorzo\Palindrom_ellenorzo\obj\Debug\Palindrom_ellenorzo.csproj.CoreCompileInputs.cache
+C:\Users\mate2\Downloads\241126\Palindrom_ellenorzo\Palindrom_ellenorzo\bin\Debug\Palindrom_ellenorzo.exe.config
+C:\Users\mate2\Downloads\241126\Palindrom_ellenorzo\Palindrom_ellenorzo\bin\Debug\Palindrom_ellenorzo.exe
+C:\Users\mate2\Downloads\241126\Palindrom_ellenorzo\Palindrom_ellenorzo\bin\Debug\Palindrom_ellenorzo.pdb
+C:\Users\mate2\Downloads\241126\Palindrom_ellenorzo\Palindrom_ellenorzo\obj\Debug\Palindrom_ellenorzo.exe
+C:\Users\mate2\Downloads\241126\Palindrom_ellenorzo\Palindrom_ellenorzo\obj\Debug\Palindrom_ellenorzo.pdb
