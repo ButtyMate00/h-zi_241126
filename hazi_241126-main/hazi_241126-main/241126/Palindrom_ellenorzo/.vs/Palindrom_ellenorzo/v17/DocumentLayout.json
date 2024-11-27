@@ -1,0 +1,86 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\buttymate\\Downloads\\hazi_241126-main\\hazi_241126-main\\241126\\Palindrom_ellenorzo\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|H:\\Asztali alkalmaz\u00E1sok fejleszt\u00E9se\\C#\\BM-halmaz\\BM-halmaz\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{82D002BC-5480-45CF-A23B-E7A8400C1E37}|Palindrom_ellenorzo\\Palindrom_ellenorzo.csproj|c:\\users\\buttymate\\downloads\\hazi_241126-main\\hazi_241126-main\\241126\\palindrom_ellenorzo\\palindrom_ellenorzo\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{82D002BC-5480-45CF-A23B-E7A8400C1E37}|Palindrom_ellenorzo\\Palindrom_ellenorzo.csproj|solutionrelative:palindrom_ellenorzo\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{82D002BC-5480-45CF-A23B-E7A8400C1E37}|Palindrom_ellenorzo\\Palindrom_ellenorzo.csproj|C:\\Users\\buttymate\\Downloads\\hazi_241126-main\\hazi_241126-main\\241126\\Palindrom_ellenorzo\\Palindrom_ellenorzo\\Form1.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{82D002BC-5480-45CF-A23B-E7A8400C1E37}|Palindrom_ellenorzo\\Palindrom_ellenorzo.csproj|solutionrelative:Palindrom_ellenorzo\\Form1.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{82D002BC-5480-45CF-A23B-E7A8400C1E37}|Palindrom_ellenorzo\\Palindrom_ellenorzo.csproj|C:\\Users\\buttymate\\Downloads\\hazi_241126-main\\hazi_241126-main\\241126\\Palindrom_ellenorzo\\palindrom_ellenorzo\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{82D002BC-5480-45CF-A23B-E7A8400C1E37}|Palindrom_ellenorzo\\Palindrom_ellenorzo.csproj|solutionrelative:palindrom_ellenorzo\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "H:\\Asztali alkalmaz\u00E1sok fejleszt\u00E9se\\C#\\BM-halmaz\\BM-halmaz\\Program.cs",
+              "ToolTip": "H:\\Asztali alkalmaz\u00E1sok fejleszt\u00E9se\\C#\\BM-halmaz\\BM-halmaz\\Program.cs",
+              "ViewState": "AQIAACoAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-27T08:31:00.798Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\buttymate\\Downloads\\hazi_241126-main\\hazi_241126-main\\241126\\Palindrom_ellenorzo\\Palindrom_ellenorzo\\Form1.cs",
+              "RelativeDocumentMoniker": "Palindrom_ellenorzo\\Form1.cs",
+              "ToolTip": "C:\\Users\\buttymate\\Downloads\\hazi_241126-main\\hazi_241126-main\\241126\\Palindrom_ellenorzo\\Palindrom_ellenorzo\\Form1.cs",
+              "RelativeToolTip": "Palindrom_ellenorzo\\Form1.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAAwC0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-27T07:28:25.195Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\buttymate\\Downloads\\hazi_241126-main\\hazi_241126-main\\241126\\Palindrom_ellenorzo\\Palindrom_ellenorzo\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "Palindrom_ellenorzo\\Form1.Designer.cs",
+              "ToolTip": "C:\\Users\\buttymate\\Downloads\\hazi_241126-main\\hazi_241126-main\\241126\\Palindrom_ellenorzo\\Palindrom_ellenorzo\\Form1.Designer.cs",
+              "RelativeToolTip": "Palindrom_ellenorzo\\Form1.Designer.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAQwEcAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-27T07:28:25.118Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\buttymate\\Downloads\\hazi_241126-main\\hazi_241126-main\\241126\\Palindrom_ellenorzo\\Palindrom_ellenorzo\\Form1.cs",
+              "RelativeDocumentMoniker": "Palindrom_ellenorzo\\Form1.cs",
+              "ToolTip": "C:\\Users\\mate2\\Downloads\\241126\\Palindrom_ellenorzo\\Palindrom_ellenorzo\\Form1.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\mate2\\Downloads\\241126\\Palindrom_ellenorzo\\Palindrom_ellenorzo\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2024-11-27T07:28:27.862Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
